@@ -43,7 +43,7 @@
         <minio.version>7.1.0</minio.version>
         <knife4j.version>2.0.5</knife4j.version>
         <weixin-java-miniapp.version>4.0.4.B</weixin-java-miniapp.version>
-        <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.2.0.Final</hibernate-validator.version>
         <seata.version>1.4.1</seata.version>
         <commons-pool2-version>2.9.0</commons-pool2-version>
     </properties>
