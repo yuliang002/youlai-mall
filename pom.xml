@@ -40,7 +40,7 @@
         <mysql.version>8.0.19</mysql.version>
         <druid.version>1.2.4</druid.version>
         <mybatis-plus.version>3.4.2</mybatis-plus.version>
-        <minio.version>7.1.0</minio.version>
+        <minio.version>8.4.6</minio.version>
         <knife4j.version>2.0.5</knife4j.version>
         <weixin-java-miniapp.version>4.0.4.B</weixin-java-miniapp.version>
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
