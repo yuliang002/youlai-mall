@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter</artifactId>
-            <version>2.2.6.RELEASE</version>
+            <version>4.3.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-commons</artifactId>
-            <version>2.2.6.RELEASE</version>
+            <version>4.3.0</version>
         </dependency>
     </dependencies>
 
